@@ -15,27 +15,29 @@ Montamos os componentes de acordo com o circuito eletrônico que está localizad
 
 Ele começa pelo no sensor de umidade do solo que ficará submerso em um vaso de planta, isso faz com que ele fique captando informações dos valores da umidade do solo e retornando para o Arduino as informações equivalentes. <br />
 Este número é interpretado da seguinte maneira:<br />
-• Quanto mais próximo de 0, mais úmido o solo está.<br />
-• Quanto mais próximo de 700, mais seco o solo está.<br />
+* Quanto mais próximo de 0, mais úmido o solo está.<br />
+* Quanto mais próximo de 700, mais seco o solo está.<br />
 
-O Sensor de luminosidade LDR faz a medição de luz no ambiente para saber se a luminosidade está de acordo ou não. <br />
+O sensor de luminosidade LDR faz a medição de luz no ambiente para saber se a luminosidade está de acordo ou não. <br />
 Considerar: <br />
 * Quanto mais próximo de 0, mais escuro. <br />
 * Quanto mais longe de 0, mais claro.<br />
 
+O sensor de temperatura DS18B20 fará a leitura de temperatura em graus celsius.
+
 
 # Componentes Utilizados
-• Arduino Uno R3 <br />
-• Sensor de umidade do solo higrômetro <br />
-• Sensor de temperatura DS18B20 <br />
-• Sensor de luminosidade LDR <br />
-• Protoboard <br />
-• Mortor DC 3-6V <br />
-• Bateria 9V <br />
-• 2 Resistor <br />
-• 11 Jumpers Macho-Macho <br />
-• 6 Jumpers Macho-Fêmea <br />
-• Ponte-H L298N
+* Arduino Uno R3 <br />
+* Sensor de umidade do solo higrômetro <br />
+* Sensor de temperatura DS18B20 <br />
+* Sensor de luminosidade LDR <br />
+* Protoboard <br />
+* Mortor DC 3-6V <br />
+* Bateria 9V <br />
+* 2 Resistor <br />
+* 11 Jumpers Macho-Macho <br />
+* 6 Jumpers Macho-Fêmea <br />
+* Ponte-H L298N
 
 
 # Interfaces
