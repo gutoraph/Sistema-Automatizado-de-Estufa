@@ -19,3 +19,4 @@ Sistemas de Informação - 5º Semestre/2021
 • 2 Resistor <br />
 • 11 Jumpers Macho-Macho <br />
 • 6 Jumpers Macho-Fêmea <br />
+• Ponte-H L298N
