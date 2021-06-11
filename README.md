@@ -1,4 +1,4 @@
-# Sistema Automatizado de Estufa
+# Sistema Automatizado de Controle de Estufas
 
 # Integrantes
 Bruno Fidalgo - 31750737 <br />
