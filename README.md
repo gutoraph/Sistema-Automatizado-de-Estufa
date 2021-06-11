@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido através da disciplina de Objetos Inteligentes Con
 Sistemas de Informação - 5º Semestre/2021
 
 # Documentação do projeto
-[Documento](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/92de2c0b58031829492934c02b9e9d4e777d3791/Estufa.pdf)
+[Documento](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/d2fc9cf060042d84f122cbdc761349a46eff112b/Estufa.pdf).
 
 # Uso e Funcionamento
 O projeto tem como funcionalidade automatizar estufas deixando o solo irrigado, minimizando o esforço manual.
