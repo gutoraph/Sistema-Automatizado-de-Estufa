@@ -19,6 +19,7 @@ Este número é interpretado da seguinte maneira:<br />
 • Quanto mais próximo de 700, mais seco o solo está.<br />
 
 
+
 # Componentes Utilizados
 • Arduino Uno R3 <br />
 • Sensor de umidade do solo higrômetro <br />
@@ -31,3 +32,10 @@ Este número é interpretado da seguinte maneira:<br />
 • 11 Jumpers Macho-Macho <br />
 • 6 Jumpers Macho-Fêmea <br />
 • Ponte-H L298N
+
+
+# Interfaces, protocolos e módulos de comunicação.
+
+O projeto conta com uma interface que foi desenvolvida utilizando a ferramenta Node-Red. <br />
+<br />
+Fluxo Node-Red
