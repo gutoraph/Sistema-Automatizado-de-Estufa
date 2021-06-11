@@ -11,7 +11,7 @@ Sistemas de Informação - 5º Semestre/2021
 # Uso e Funcionamento
 O projeto tem como funcionalidade em automatizar as estufas e deixa-las regadasm, minimizando o esforço humano.
 
-Montamos os componentes de acordo com o [circuito eletrônico](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/525c94e620d57a445c59d9ee975ddc0be01ae192/circuito%20eletronico.png). que está localizado nesse repositório.
+Montamos os componentes de acordo com o [circuito eletrônico](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/525c94e620d57a445c59d9ee975ddc0be01ae192/circuito%20eletronico.png) que está localizado nesse repositório.
 
 
 
