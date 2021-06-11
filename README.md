@@ -39,4 +39,6 @@ Este número é interpretado da seguinte maneira:<br />
 O projeto conta com uma interface que foi desenvolvida utilizando a ferramenta Node-Red. <br />
 <br />
 Fluxo Node-Red<br />
-![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/4ca548484e2f5ea0022ecf7c057ad5fc9f9327ed/node-red.jpg)
+![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/4ca548484e2f5ea0022ecf7c057ad5fc9f9327ed/node-red.jpg)<br />
+Nó responsável por receber o valor da umidade do solo.
+![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/80f507297fa2e8ff796e8cef2fc91baea44d1ac7/1.jpg)
