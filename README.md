@@ -47,7 +47,7 @@ Para mais informações assista o video no [YouTube]
 * Ponte-H L298N
 
 # Software
-O código no qual o nosso projeto foi desenvolvido é o [Estufa](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/71020fbaea6329f9075c9f95d6ce611e7637a39e/Estufa.ino)
+O código no qual o nosso projeto foi desenvolvido é o [Estufa](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/71020fbaea6329f9075c9f95d6ce611e7637a39e/Estufa.ino).
 # Interfaces
 
 O projeto conta com uma interface que foi desenvolvida utilizando a ferramenta Node-Red. <br />
