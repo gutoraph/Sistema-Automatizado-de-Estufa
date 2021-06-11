@@ -8,6 +8,9 @@ Gustavo Businhani da Silva - 31725279
 Esse projeto foi desenvolvido através da disciplina de Objetos Inteligentes Conectados da Universidade Presbiteriana Mackenzie, sendo orientado pelo Prof. Dr. Wilian França Costa.<br />
 Sistemas de Informação - 5º Semestre/2021
 
+# Documentação do projeto
+[Documento]
+
 # Uso e Funcionamento
 O projeto tem como funcionalidade automatizar estufas deixando o solo irrigado, minimizando o esforço manual.
 
@@ -30,7 +33,7 @@ Uma bateria de 9 volts, alimenta o módulo ponte-h que faz o controle do motor d
 Para mais informações assista o video no [YouTube]
 
 
-# Componentes Utilizados
+# Hardware
 * Arduino Uno R3 <br />
 * Sensor de umidade do solo higrômetro <br />
 * Sensor de temperatura DS18B20 <br />
@@ -43,6 +46,7 @@ Para mais informações assista o video no [YouTube]
 * 6 Jumpers Macho-Fêmea <br />
 * Ponte-H L298N
 
+# Software
 
 # Interfaces
 
