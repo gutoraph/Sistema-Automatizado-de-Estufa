@@ -9,11 +9,11 @@ Esse projeto foi desenvolvido através da disciplina de Objetos Inteligentes Con
 Sistemas de Informação - 5º Semestre/2021
 
 # Uso e Funcionamento
-O projeto tem como funcionalidade em automatizar as estufas e deixa-las regadasm, minimizando o esforço humano.
+O projeto tem como funcionalidade automatizar estufas deixando o solo irrigado, minimizando o esforço manual.
 
 Montamos os componentes de acordo com o circuito eletrônico que está localizado nesse [repositório](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/525c94e620d57a445c59d9ee975ddc0be01ae192/circuito%20eletronico.png).<br />
 
-Ele começa pelo no sensor de umidade do solo que ficará submerso em um vaso de planta, isso faz com que ele fique captando informações dos valores da umidade do solo, retornando para o Arduino as informações equivalentes. <br />
+Ele começa pelo no sensor de umidade do solo que ficará submerso em um vaso de planta, isso faz com que ele fique captando informações dos valores da umidade do solo e retornando para o Arduino as informações equivalentes. <br />
 Este número é interpretado da seguinte maneira:<br />
 • Quanto mais próximo de 0, mais úmido o solo está.<br />
 • Quanto mais próximo de 700, mais seco o solo está.<br />
@@ -48,4 +48,9 @@ Recebendo informação da umidade através do MQTT <br />
 ![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/dd084d286a94f77bb9c0c6e56001299d2a3f0fd2/3.jpg)<br /><br />
 Função javascript que recebe o valor da umidade através do MQTT e verifica se a umidade é maior que 700.<br />
 ![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/a0396725973eeaeb9dfab5ff2bb22202f334b037/4.jpg)<br /><br />
+Função para mostrar as notificações no painel de debug<br />
+![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/eab2f75748a2954c59f8f365414a961a30a1c6dd/5.jpg)<br />
 
+# Fluxograma e Diagrama eletrônico
+[Fluxograma](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/eab2f75748a2954c59f8f365414a961a30a1c6dd/fluxograma.png)
+[Circuito eltrônico](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/eab2f75748a2954c59f8f365414a961a30a1c6dd/circuito%20eletronico.png)
