@@ -45,4 +45,7 @@ Nó responsável por receber o valor da umidade do solo.<br />
 Entrada do protocolo MQTT<br />
 ![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/80f507297fa2e8ff796e8cef2fc91baea44d1ac7/2.jpg)<br /><br />
 Recebendo informação da umidade através do MQTT <br />
-![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/dd084d286a94f77bb9c0c6e56001299d2a3f0fd2/3.jpg)
+![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/dd084d286a94f77bb9c0c6e56001299d2a3f0fd2/3.jpg)<br /><br />
+Função javascript que recebe o valor da umidade através do MQTT e verifica se a umidade é maior que 700.<br />
+![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/a0396725973eeaeb9dfab5ff2bb22202f334b037/4.jpg)<br /><br />
+
