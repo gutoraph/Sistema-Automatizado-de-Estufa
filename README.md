@@ -18,6 +18,10 @@ Este número é interpretado da seguinte maneira:<br />
 • Quanto mais próximo de 0, mais úmido o solo está.<br />
 • Quanto mais próximo de 700, mais seco o solo está.<br />
 
+O Sensor de luminosidade LDR faz a medição de luz no ambiente para saber se a luminosidade está de acordo ou não. <br />
+Considerar: <br />
+* Quanto mais próximo de 0, mais escuro. <br />
+* Quanto mais longe de 0, mais claro.<br />
 
 
 # Componentes Utilizados
