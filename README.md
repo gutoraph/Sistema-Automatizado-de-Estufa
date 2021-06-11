@@ -8,6 +8,13 @@ Gustavo Businhani da Silva - 31725279
 Esse projeto foi desenvolvido através da disciplina de Objetos Inteligentes Conectados da Universidade Presbiteriana Mackenzie, sendo orientado pelo Prof. Dr. Wilian França Costa.<br />
 Sistemas de Informação - 5º Semestre/2021
 
+# Uso e Funcionamento
+O projeto tem como funcionalidade em automatizar as estufas e deixa-las regadasm, minimizando o esforço humano.
+
+Montamos os componentes de acordo com o circuito eletrônico que está localizado nesse repositório em imagem ".png"
+
+
+
 # Componentes Utilizados
 • Arduino Uno R3 <br />
 • Sensor de umidade do solo higrômetro <br />
