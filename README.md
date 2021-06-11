@@ -23,7 +23,11 @@ Considerar: <br />
 * Quanto mais próximo de 0, mais escuro. <br />
 * Quanto mais longe de 0, mais claro.<br />
 
-O sensor de temperatura DS18B20 fará a leitura de temperatura em graus celsius.
+O sensor de temperatura DS18B20 fará a leitura de temperatura do ambiente em graus celsius. <br />
+
+Uma bateria de 9 volts, alimenta o módulo ponte-h que faz o controle do motor descer, o motor é ativado assim que a temperatura do solo for medida maior que 700, simulando a irrigação do solo.<br />
+
+Para mais informações assista o video no [YouTube]
 
 
 # Componentes Utilizados
@@ -58,5 +62,5 @@ Função para mostrar as notificações no painel de debug<br />
 ![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/eab2f75748a2954c59f8f365414a961a30a1c6dd/5.jpg)<br />
 
 # Fluxograma e Diagrama eletrônico
-[Fluxograma](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/eab2f75748a2954c59f8f365414a961a30a1c6dd/fluxograma.png)
+[Fluxograma](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/eab2f75748a2954c59f8f365414a961a30a1c6dd/fluxograma.png)<br />
 [Circuito eltrônico](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/eab2f75748a2954c59f8f365414a961a30a1c6dd/circuito%20eletronico.png)
