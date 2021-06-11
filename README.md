@@ -34,7 +34,7 @@ Este número é interpretado da seguinte maneira:<br />
 • Ponte-H L298N
 
 
-# Interfaces, protocolos e módulos de comunicação.
+# Interfaces
 
 O projeto conta com uma interface que foi desenvolvida utilizando a ferramenta Node-Red. <br />
 <br />
