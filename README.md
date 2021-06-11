@@ -44,3 +44,5 @@ Nó responsável por receber o valor da umidade do solo.<br />
 ![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/80f507297fa2e8ff796e8cef2fc91baea44d1ac7/1.jpg)<br /><br />
 Entrada do protocolo MQTT<br />
 ![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/80f507297fa2e8ff796e8cef2fc91baea44d1ac7/2.jpg)<br /><br />
+Recebendo informação da umidade através do MQTT <br />
+![img](https://github.com/gutoraph/Sistema-Automatizado-de-Estufa/blob/dd084d286a94f77bb9c0c6e56001299d2a3f0fd2/3.jpg)
