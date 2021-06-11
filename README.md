@@ -9,13 +9,13 @@ Esse projeto foi desenvolvido através da disciplina de Objetos Inteligentes Con
 Sistemas de Informação - 5º Semestre/2021
 
 # Componentes Utilizados
-• Arduino Uno R3
-• Sensor de umidade do solo higrômetro
-• Sensor de temperatura DS18B20
-• Sensor de luminosidade LDR
-• Protoboard
-• Mortor DC 3-6V
-• Bateria 9V
-• 2 Resistor
-• 11 Jumpers Macho-Macho
-• 6 Jumpers Macho-Fêmea
+• Arduino Uno R3 <br />
+• Sensor de umidade do solo higrômetro <br />
+• Sensor de temperatura DS18B20 <br />
+• Sensor de luminosidade LDR <br />
+• Protoboard <br />
+• Mortor DC 3-6V <br />
+• Bateria 9V <br />
+• 2 Resistor <br />
+• 11 Jumpers Macho-Macho <br />
+• 6 Jumpers Macho-Fêmea <br />
